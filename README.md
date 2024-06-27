@@ -29,6 +29,6 @@ Este proyecto es el análisis final de mi Máster en Ciencia de Datos e Intelige
 
 ## Contacto
 Para cualquier consulta o información adicional, por favor, contacta a:
-- **Nombre:** [Daniela Quenti]
-- **Email:** [daniela.quenti@gmail.com]
-- **LinkedIn:** [(https://www.linkedin.com/in/daniq/)]
+- **Nombre:** Daniela Quenti
+- **Email:** daniela.quenti@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/daniq/
