@@ -1,13 +1,34 @@
-# Data-Analytics-retail-company
-Exploratory Analysis (PowerBI), Custering &amp; Sales Prediction
+# DS Market Retail Analysis
 
-El objetivo principal del proyecto es convertir DSMarket en una empresa impulsada por datos que tome decisiones estratégicas basadas en análisis y pronósticos precisos. 
-El flujo de trabajo se divide en las siguientes etapas:
+## Descripción del Proyecto
+Este proyecto es el análisis final de mi Máster en Ciencia de Datos e Inteligencia Artificial, donde realicé un análisis exploratorio de datos sobre los patrones de compra de los clientes en una empresa de retail.
 
-1.	Desarrollar paneles de visualización que proporcionen una comprensión detallada de los datos comerciales, facilitando la identificación de patrones, tendencias y relaciones en los datos.
+## Objetivos del Proyecto
+- Identificar segmentos de productos utilizando agrupamiento K-means.
+- Desarrollar modelos de predicción de ventas con XGBoost.
+- Lograr un intervalo de confianza del 95% en las predicciones.
 
-2.	Identificar grupos de productos que compartan características y/o comportamientos de venta similares para que la compañía pueda optimizar estrategias de venta, de gestión de inventarios y de fijación de precios.
+## Contenidos del Proyecto
+1. **Exploratory Data Analysis (EDA)**
+   - Análisis descriptivo y visualización de datos.
+   - Identificación de patrones de compra.
+2. **Clustering de Productos**
+   - Implementación de K-means para segmentar productos.
+   - Visualización de los clusters.
+3. **Modelos de Predicción**
+   - Desarrollo de modelos de predicción de ventas utilizando XGBoost.
+   - Evaluación de modelos y ajuste de hiperparámetros.
+4. **Resultados**
+   - Análisis de resultados y conclusiones.
+   - Documentación de insights obtenidos.
 
-3.	Desarrollar un enfoque de predicción de ventas utilizando técnicas de machine learning para que la compañía pueda optimizar procesos como la planificación de inventarios y asignación de recursos.
+## Tecnologías Utilizadas
+- **Lenguajes de Programación:** Python
+- **Librerías y Herramientas:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost
+- **Plataformas:** Jupyter Notebook
 
-4.	Modelar un proceso integral de despliegue del modelo para que la compañía pueda monitorear y ajustar continuamente el proceso de reposición de stock en función de las tendencias del mercado.
+## Contacto
+Para cualquier consulta o información adicional, por favor, contacta a:
+- **Nombre:** [Daniela Quenti]
+- **Email:** [daniela.quenti@gmail.com]
+- **LinkedIn:** [(https://www.linkedin.com/in/daniq/)]
