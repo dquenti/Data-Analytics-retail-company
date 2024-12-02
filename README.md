@@ -28,7 +28,7 @@ Este proyecto es el análisis final de mi Máster en Ciencia de Datos e Intelige
 - **Plataformas:** Jupyter Notebook
 
 ## Contacto
-Para cualquier consulta o información adicional, por favor, contacta a:
+Para cualquier consulta o información adicional:
 - **Nombre:** Daniela Quenti
 - **Email:** daniela.quenti@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/daniq/
